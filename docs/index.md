@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hone
+title: Home
 ---
 
 # My GitHub Pages site
